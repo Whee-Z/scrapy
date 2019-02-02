@@ -42,3 +42,4 @@ class ItcastSpider(scrapy.Spider):
             yield item
 
         #return teacher_item
+        
