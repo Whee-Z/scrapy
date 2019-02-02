@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+#爬取某培训机构的教师名单和简介
+
 import scrapy
 from MyFirstSpider.items import MyfirstspiderItem
 
